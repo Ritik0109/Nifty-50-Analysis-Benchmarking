@@ -1,6 +1,10 @@
 # Nifty50
 
 > Data Analysis of Nifty 50  Index over 10 years period
+
+/picture
+
+
 ### Objective:
 
 The goal was to answer the following questions at the end of the project:

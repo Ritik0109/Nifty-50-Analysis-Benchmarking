@@ -2,7 +2,7 @@
 
 > Data Analysis of Nifty 50  Index over 10 years period
 
-![Screenshot (75)](https://github.com/Ritik0109/Nifty50/assets/84517614/3c951b5a-2104-4731-9b28-a2457aff6f00)
+![imgonline-com-ua-twotoone-gwQBpQcKPB5NepTu](https://github.com/Ritik0109/Nifty50/assets/84517614/216292c7-f11f-4e9b-a9c6-43eef5857031)
 
 
 

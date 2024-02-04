@@ -1,6 +1,7 @@
 # Nifty50
-Data Analysis of Nifty 50  Index over 10 years period
-Objective:
+
+## Data Analysis of Nifty 50  Index over 10 years period
+### Objective:
 
 The goal was to answer the following questions at the end of the project:
 
@@ -9,7 +10,7 @@ The goal was to answer the following questions at the end of the project:
 3. How has it performed compared to different asset classes? Is it performing better?
 4. How is it compared to global market ?
 
-WorkFlow:
+### WorkFlow:
 
 Here, 10-years historical data has been utilized for the whole project. All this data was extracted from open data sources through Web scraping in Power Query. Details can be found in references section.
 
@@ -19,9 +20,9 @@ The data was next imported to Power BI Vertipaq engine and stored in the memory 
 
 After Data modeling & filter adjustments, various DAX measures were created for the calculation & analysis. The major DAX measures can be found in the next section. Finally, the visualizations were added resulting in the outcome of the analysis.
 
-Tools Used: Power BI, Power Query, Excel
+### Tools Used: Power BI, Power Query, Excel
 
-Important DAX Formulas: 
+### Important DAX Formulas: 
 
 	
 	MoM Returns = Nifty Monthly Returns = 
@@ -85,7 +86,7 @@ Important DAX Formulas:
                         RETURN MVA_30
 						
 						
-Results:
+### Results:
 
 From the detailed analysis & benchmarking of Nifty 50 and various other asset classs. We can say that one would have expected about 14% average return yearly since last 10 yrs and 263% in absolute terms. A simple example would be, if one has invested ₹100 in 2013 it would have become ₹263 by today.
 
@@ -93,7 +94,7 @@ When benchmarking with other asset classes, Nifty has performed strongly and has
 
 When Nifty is compared with other INDEXES, either globally or with SENSEX, it has performed well while during an event of crisis, it has stayed comparatively resilient and has been able to bounced back quickly to recver its lost gains. 
 
-References:
+### References:
 
 The real estate INDEX does not exist as of now, in order to have a fair comparison, INDEX data from Housing.com & ISB has been used, which is publicly available.
 
